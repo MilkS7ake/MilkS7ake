@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Graydon, or, @MilkS7ake
 - Pronouns: He/Him
 - 🔍 My current intrests are in cryptography, decentralised computing, and software engineering.
-- 🎓 I am currently a 2nd year student ar Carleton University pursuing an Honors Bachelor of Computer Science.
+- 🎓 I am currently a third year student ar Carleton University pursuing an Honors Bachelor of Computer Science.
 - 🌱 I’m currently learning about systems programming  and web development.
 
 <!---
